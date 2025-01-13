@@ -4,7 +4,7 @@
 This project focuses on predicting customer churn and providing actionable strategies to improve customer retention for a telecommunications company. The dataset contains information about customers' demographics, service subscriptions, billing details, and churn status. Using machine learning models, exploratory data analysis, and a predictive interface, key factors contributing to churn were identified, and a predictor tool was developed to forecast churn and calculate customer lifetime value.
 
 ## Key highlights
-
+![Alt text](Pictures/interface.png "Interface")
 
 ## Table of Contents
 1. [Data Overview](#data-overview)
