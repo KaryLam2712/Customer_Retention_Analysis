@@ -2,6 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
+
 from sklearn.metrics import (
     accuracy_score,
     precision_score,
@@ -115,3 +116,7 @@ results.append(
 
 results_df = pd.DataFrame(results)
 print(results_df)
+
+import joblib
+
+joblib.dump(model_rf, "model_rf_smote_compatible.sav")
