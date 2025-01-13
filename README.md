@@ -5,6 +5,7 @@ This project focuses on predicting customer churn and providing actionable strat
 
 ## Key highlights
 ![Alt text](Pictures/interface.png "Interface")
+![Alt text](Pictures/interface2.png "Interface2")
 
 ## Table of Contents
 1. [Data Overview](#data-overview)
